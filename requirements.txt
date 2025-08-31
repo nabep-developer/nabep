@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Flask
 pandas
 openpyxl
+=======
+pip freeze > requirements.txt
+>>>>>>> f344c0c9fa7986f12ac663c615b7260c01873c39
